@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Photo Gallery",
+  "description": "An understated luxury photo gallery featuring curated photography, instant author search, and persistent favourites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
